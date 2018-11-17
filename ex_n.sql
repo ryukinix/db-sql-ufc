@@ -6,8 +6,8 @@
 SELECT nome_companhia,
        count(*) as totais_empregados,
        sum(salario) as salario_total,
-       avg(salario) as salario_medio,
-       avg(DISTINCT salario) as media_salarial,
+       avg(DISTINCT salario) as salario_medio,
+       avg(salario) as media_salarial,
        min(salario) as menor_salario,
        max(salario) as maior_salario
 FROM trabalha_para
