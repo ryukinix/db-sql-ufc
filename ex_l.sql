@@ -1,0 +1,3 @@
+-- l) Encontre os nomes e as cidades de todos os empregados cujo
+-- salário total é maior de que o maior salário de, pelo menos, uma
+-- das empresas onde o mesmo trabalha.

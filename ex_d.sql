@@ -1,0 +1,2 @@
+-- d) Encontre os nomes de todos os empregados neste banco de dados
+-- que moram na mesma cidade da companhia para a qual eles trabalham;

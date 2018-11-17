@@ -1,0 +1,2 @@
+-- b) Encontre os nomes e cidades de residência de todos
+--    os empregados que trabalham para o Banco do Brasil;

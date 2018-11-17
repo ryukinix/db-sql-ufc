@@ -1,0 +1,4 @@
+-- h) Assuma que as companhias podem estar localizadas em várias
+-- cidades: Companhia(Nome_Companhia, Cidade). Encontre todas as
+-- companhias que têm sedes em todas as cidades que o Banco Safra tem
+-- sede;

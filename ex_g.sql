@@ -1,0 +1,2 @@
+-- g) Encontre os nomes de todos os empregados que ganham mais de que
+-- todos os empregados do Banco Safra;

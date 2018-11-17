@@ -1,0 +1,2 @@
+-- i) Encontre os nomes dos empregados do Banco do Brasil que ganham
+-- mais que o seu gerente;

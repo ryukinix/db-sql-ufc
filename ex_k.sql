@@ -1,0 +1,2 @@
+-- k) Encontre os nomes de todos os empregados que trabalham para,
+-- pelo menos, duas companhias.

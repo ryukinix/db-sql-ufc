@@ -1,0 +1,2 @@
+-- j) Encontre os nomes e salários de todos os empregados do Banco do
+-- Brasil que moram em Fortaleza.

@@ -1,0 +1,3 @@
+-- n) Liste os nomes de todas as companhias com os seus respectivos
+-- totais de empregados e o salário total, o salário médio, a média
+-- salarial, o menor salário e o maior salário dos seus empregados.

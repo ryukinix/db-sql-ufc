@@ -1,0 +1,3 @@
+-- c) Encontre os nomes, ruas e cidades de residência de todos os
+--    empregados que trabalham para o Banco do Brasil e que ganham mais
+--    de que R$ 10.000,00;

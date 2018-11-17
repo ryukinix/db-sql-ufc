@@ -1,0 +1,3 @@
+-- o) Ordenando pelo nome da companhia, mostre o nome e o salário de
+-- cada empregado, mostrando o salário total pago por cada companhia
+-- e, ao final, o salário total pago por todas as companhias.

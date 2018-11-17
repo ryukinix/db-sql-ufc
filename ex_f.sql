@@ -1,0 +1,2 @@
+-- f) Encontre os nomes de todos os empregados neste banco de dados
+-- que NÃO trabalham para o Banco do Brasil;
