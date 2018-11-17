@@ -58,7 +58,8 @@ INSERT INTO empregado VALUES
        ('Lucas', 'Rua dos Lucas', 'Eusébio'),
        ('Pedro', 'Rua Floriano Peixoto', 'Forquilha'),
        ('Manoel', 'Rua Itacorubi', 'Florianópolis'),
-       ('Gabriel', 'Rua Itacorubi', 'Florianópolis');
+       ('Gabriel', 'Rua Itacorubi', 'Florianópolis'),
+       ('Antônio', 'Rua Floriano Peixoto', 'Forquilha');
 
 
 -- companhia
@@ -74,6 +75,7 @@ INSERT INTO trabalha_para VALUES
        ('João', 'Banco do Brasil', 5000.00),
        ('Fernando', 'UFC', 9000.00),
        ('Lucas', 'Banco do Brasil', 15000.00),
+       ('Antônio', 'Banco do Brasil', 6000.00),
        ('Pedro', 'Banco Safra', 10000.00),
        ('Manoel', 'Neoway', 5000.00),
        ('Gabriel', 'Neoway', 8000.00),
@@ -83,4 +85,5 @@ INSERT INTO trabalha_para VALUES
 INSERT INTO gerencia VALUES
        ('Manoel', 'Gabriel'),
        ('João', 'Lucas'),
-       ('Pedro', 'Fernando');
+       ('Pedro', 'Fernando'),
+       ('Antônio', 'João');
