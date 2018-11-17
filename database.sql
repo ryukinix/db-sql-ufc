@@ -76,6 +76,7 @@ INSERT INTO trabalha_para VALUES
        ('Lucas', 'Banco do Brasil', 15000.00),
        ('Antônio', 'Banco do Brasil', 6000.00),
        ('Fernando', 'UFC', 9000.00),
+       ('Fernando', 'Banco do Brasil', 6000.00)
        ('Pedro', 'Banco Safra', 10000.00),
        ('Manoel', 'Neoway', 5000.00),
        ('Gabriel', 'Neoway', 8000.00),
