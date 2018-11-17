@@ -58,7 +58,7 @@ INSERT INTO empregado VALUES
        ('Lucas', 'Rua dos Lucas', 'Eusébio'),
        ('Pedro', 'Rua Floriano Peixoto', 'Forquilha'),
        ('Manoel', 'Rua Itacorubi', 'Florianópolis'),
-       ('Gabriel', 'Rua dos Estatísticos', 'Florianópolis');
+       ('Gabriel', 'Rua Itacorubi', 'Florianópolis');
 
 
 -- companhia
